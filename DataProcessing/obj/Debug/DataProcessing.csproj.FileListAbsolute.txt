@@ -1,0 +1,6 @@
+E:\Programming\#mentoring2016\DataProcessing\DataProcessing\bin\Debug\DataProcessing.exe.config
+E:\Programming\#mentoring2016\DataProcessing\DataProcessing\bin\Debug\DataProcessing.exe
+E:\Programming\#mentoring2016\DataProcessing\DataProcessing\bin\Debug\DataProcessing.pdb
+E:\Programming\#mentoring2016\DataProcessing\DataProcessing\obj\Debug\DataProcessing.csprojResolveAssemblyReference.cache
+E:\Programming\#mentoring2016\DataProcessing\DataProcessing\obj\Debug\DataProcessing.exe
+E:\Programming\#mentoring2016\DataProcessing\DataProcessing\obj\Debug\DataProcessing.pdb
